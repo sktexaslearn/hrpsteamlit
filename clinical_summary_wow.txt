@@ -1,0 +1,71 @@
+
+Clinical Summary for Patient (MRN: #1512015)
+Generated: April 28, 2025
+
+**Patient Info**
+Name: [Blank/Dft]
+DOB: [Blank/Dft]
+Gender: M
+PCP: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+Specialists: Patrick Kelley, MD; Soo Hee Kim-Delio, MD
+Allergies: No Known Drug Allergies (NKDA)
+
+**Key History**
+Surgical: Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Imaging: CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+Labs: No results found for the last 4320 hours.
+
+**Risk Scores**
+- Infection Risk: 40%
+- Developmental Delay Risk: 50%
+- Imaging Non-Compliance Risk: 70%
+
+**Clinical Alerts and Diagnoses (Enhanced by STORM)**
+- ALERT: Risk of post-surgical complications (Score: 40%). 
+    Post-surgical management of craniosynostosis requires:
+    - Imaging (CT/MRI) every 6-12 months to monitor cranial shape and intracranial pressure.
+    - Lab tests (CBC, CRP) to detect infections, especially within 6 months post-surgery.
+    - Developmental screening at ages 2, 4, and 6 to assess cognitive/motor delays.
+    - Complications include infection (5-10% risk), wound dehiscence, and hydrocephalus.
+    - ICD-10: Q75.0 (Craniosynostosis).
+    Source: Simulated PubMed article, 2024.
+    
+- ALERT: Imaging outdated (Score: 70%, last CT on 05/02/2021). Schedule new CT/MRI. 
+    Post-surgical management of craniosynostosis requires:
+    - Imaging (CT/MRI) every 6-12 months to monitor cranial shape and intracranial pressure.
+    - Lab tests (CBC, CRP) to detect infections, especially within 6 months post-surgery.
+    - Developmental screening at ages 2, 4, and 6 to assess cognitive/motor delays.
+    - Complications include infection (5-10% risk), wound dehiscence, and hydrocephalus.
+    - ICD-10: Q75.0 (Craniosynostosis).
+    Source: Simulated PubMed article, 2024.
+    
+- ALERT: No recent lab results (Score: 40%). Order CBC and CRP. 
+    Post-surgical management of craniosynostosis requires:
+    - Imaging (CT/MRI) every 6-12 months to monitor cranial shape and intracranial pressure.
+    - Lab tests (CBC, CRP) to detect infections, especially within 6 months post-surgery.
+    - Developmental screening at ages 2, 4, and 6 to assess cognitive/motor delays.
+    - Complications include infection (5-10% risk), wound dehiscence, and hydrocephalus.
+    - ICD-10: Q75.0 (Craniosynostosis).
+    Source: Simulated PubMed article, 2024.
+    
+- DIAGNOSIS: Likely craniosynostosis (ICD-10: Q75.0). 
+    Post-surgical management of craniosynostosis requires:
+    - Imaging (CT/MRI) every 6-12 months to monitor cranial shape and intracranial pressure.
+    - Lab tests (CBC, CRP) to detect infections, especially within 6 months post-surgery.
+    - Developmental screening at ages 2, 4, and 6 to assess cognitive/motor delays.
+    - Complications include infection (5-10% risk), wound dehiscence, and hydrocephalus.
+    - ICD-10: Q75.0 (Craniosynostosis).
+    Source: Simulated PubMed article, 2024.
+    
+- NOTE: No Known Drug Allergies (NKDA). Safe to prescribe standard post-surgical antibiotics.
+- INSIGHT: 5-10% likelihood of infection based on missing labs and surgical history.
+
+**Care Plan (Prioritized)**
+- Priority 1: Schedule new CT/MRI to monitor cranial surgery outcomes (Score: 70%)
+- Priority 2: Refer for developmental screening (Score: 50%)
+- Priority 3: Order CBC and CRP to rule out infection (Score: 40%)
+
+**Recommendations**
+Follow care plan above and schedule follow-up: SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301.
