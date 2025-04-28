@@ -29,12 +29,12 @@ risk_scores = data["Risk Scores"]
 care_plan = data["Care Plan"]
 
 # Sidebar Filters
-st.sidebar.markdown('<h2 class="text-xl font-semibold text-blue-600">Filters</h2>', unsafe_allow_html=True)
+st.sidebar.markdown('<h2 class="text-xl font-bold text-blue-600">Filters</h2>', unsafe_allow_html=True)
 alert_filter = st.sidebar.multiselect("Select Alerts to Display", alerts, default=alerts)
 risk_filter = st.sidebar.multiselect("Select Risks to Display", list(risk_scores.keys()), default=list(risk_scores.keys()))
 
 # Patient Info
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Patient Information</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Patient Information</h2>', unsafe_allow_html=True)
 col1, col2 = st.columns(2)
 col1.markdown(f'<p class="text-gray-800"><strong>Name:</strong> {patient_info["Name"]}</p>', unsafe_allow_html=True)
 col1.markdown(f'<p class="text-gray-800"><strong>DOB:</strong> {patient_info["Date of Birth"]}</p>', unsafe_allow_html=True)
@@ -48,26 +48,33 @@ st.markdown(f'<p class="text-gray-800"><strong>Imaging:</strong> {patient_info["
 st.markdown(f'<p class="text-gray-800"><strong>Labs:</strong> {patient_info["Lab Results"]}</p>', unsafe_allow_html=True)
 
 # Clinical Alerts
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Clinical Alerts and Diagnoses</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Clinical Alerts and Diagnoses</h2>', unsafe_allow_html=True)
 for alert in alert_filter:
-    st.markdown(f'<p class="text-gray-800">- {alert}</p>', unsafe_allow_html=True)
+    # Highlight "ALERT" in red bold
+    formatted_alert = alert.replace(
+        "ALERT",
+        '<span style="color: red; font-weight: bold;">ALERT</span>'
+    )
+    st.markdown(
+        f'<p class="text-gray-800 mb-2">{formatted_alert}</p>',
+        unsafe_allow_html=True
+    )
 
 # Risk Scores
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Risk Scores</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Risk Scores</h2>', unsafe_allow_html=True)
 filtered_risks = {k: v for k, v in risk_scores.items() if k in risk_filter}
 df_risks = pd.DataFrame(list(filtered_risks.items()), columns=['Risk', 'Score'])
 fig_risks = px.bar(df_risks, x='Risk', y='Score', title='Clinical Risk Scores', color='Risk')
 st.plotly_chart(fig_risks)
-st.image("risk_scores.png", caption="Static Risk Scores")
 
 # Care Plan
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Prioritized Care Plan</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Prioritized Care Plan</h2>', unsafe_allow_html=True)
 for i, item in enumerate(care_plan):
     st.markdown(f'<p class="text-gray-800">- Priority {i+1}: {item["action"]} (Score: {item["priority"]}%)</p>', unsafe_allow_html=True)
 try:
     with open("care_plan_pie.png", "rb") as f:
         img = Image.open(f)
-        if img.size[0] * img.size[1] < 1000:  # Detect placeholder (small size)
+        if img.size[0] * img.size[1] < 1000:  # Detect placeholder
             st.warning("Care Plan Pie chart is unavailable due to rendering issues.")
         else:
             st.image("care_plan_pie.png", caption="Care Plan Priorities")
@@ -75,7 +82,7 @@ except FileNotFoundError:
     st.error("Error: care_plan_pie.png not found.")
 
 # Imaging Timeline
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Imaging Timeline</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Imaging Timeline</h2>', unsafe_allow_html=True)
 try:
     with open("imaging_timeline.png", "rb") as f:
         img = Image.open(f)
@@ -87,7 +94,7 @@ except FileNotFoundError:
     st.error("Error: imaging_timeline.png not found.")
 
 # Download Summary
-st.markdown('<h2 class="text-2xl font-semibold text-blue-600 mt-6">Download Summary</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="text-2xl font-bold text-blue-600 mt-6">Download Summary</h2>', unsafe_allow_html=True)
 try:
     with open("clinical_summary_wow.txt", "r") as f:
         summary = f.read()
