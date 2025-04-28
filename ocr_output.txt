@@ -1,0 +1,2842 @@
+Pediatric Medical Record - CONFIDENTIAL
+
+Dell Children's Medical Group
+
+1301 Barbara Jordan Blvd STE 301, AUSTIN, TX 78723
+PHONE: (512) 324-0918 | FAX: (512) 324-0644
+
+HIPAA Privacy Notice: This document contains protected health information.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/01/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/02/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/01/2021 10:00am, Seton Hospital System
+
+Finalized: 6/1/2021 3:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/03/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/01/2021 9:00am, Seton Hospital System
+
+Finalized: 7/1/2021 1:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/04/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/04/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/05/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/05/2021 11:00am, Seton Hospital System
+
+Finalized: 6/5/2021 4:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/06/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/06/2021 8:00am, Seton Hospital System
+
+Finalized: 7/6/2021 12:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/07/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/08/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/08/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/08/2021 10:30am, Seton Hospital System
+
+Finalized: 6/8/2021 3:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/09/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/09/2021 9:30am, Seton Hospital System
+
+Finalized: 7/9/2021 2:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/10/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/11/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+MRI, Brain, 06/11/2021 11:15am, Seton Hospital System
+
+Finalized: 6/11/2021 4:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/12/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/12/2021 10:00am, Seton Hospital System
+
+Finalized: 7/12/2021 2:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/13/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/14/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/14/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+MRI, Brain, 06/14/2021 9:45am, Seton Hospital System
+
+Finalized: 6/14/2021 3:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/15/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/15/2021 8:45am, Seton Hospital System
+
+Finalized: 7/15/2021 1:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/16/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/17/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/17/2021 10:00am, Seton Hospital System
+
+Finalized: 6/17/2021 3:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/18/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/18/2021 9:00am, Seton Hospital System
+
+Finalized: 7/18/2021 1:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+
+Patient Name: [Blank/Dft]
+
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/19/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/20/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/20/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+MRI, Brain, 06/20/2021 10:15am, Seton Hospital System
+
+Finalized: 6/20/2021 3:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/21/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+X-Ray, Skull, 07/21/2021 8:30am, Seton Hospital System
+
+Finalized: 7/21/2021 1:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/22/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/23/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/23/2021 10:45am, Seton Hospital System
+
+Finalized: 6/23/2021 4:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/24/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/24/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/24/2021 9:15am, Seton Hospital System
+
+Finalized: 7/24/2021 2:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/25/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/26/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/26/2021 10:30am, Seton Hospital System
+
+Finalized: 6/26/2021 3:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/27/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/27/2021 9:00am, Seton Hospital System
+
+Finalized: 7/27/2021 1:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 03/28/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/28/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/29/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 06/29/2021 11:00am, Seton Hospital System
+
+Finalized: 6/29/2021 4:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 03/30/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 07/30/2021 8:45am, Seton Hospital System
+
+Finalized: 7/30/2021 1:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 03/31/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+
+From: Dell Children's Medical Group
+
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+Date: 04/01/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 04/01/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 07/01/2021 10:00am, Seton Hospital System
+
+Finalized: 7/1/2021 3:15 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 04/02/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 08/02/2021 9:00am, Seton Hospital System
+
+Finalized: 8/2/2021 1:45 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 04/03/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 04/04/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+MRI, Brain, 07/04/2021 10:15am, Seton Hospital System
+
+Finalized: 7/4/2021 3:30 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Fax Cover Sheet
+From: Dell Children's Medical Group
+To: SARAH A FROMMER MD PHD, 1301 BARBARA JORDAN BLVD, AUSTIN, TX 78723
+
+Date: 04/05/22
+
+Pages: 1
+
+Comments: Patient record update for MRN #1512015
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 04/05/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+X-Ray, Skull, 08/05/2021 9:30am, Seton Hospital System
+
+Finalized: 8/5/2021 2:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: NoER Recently 04/06/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+CT, FACE, W/O CONTRAST 05/02/2021 12:00am, Seton Hospital System
+
+Finalized: 5/2/2021 2:01 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
+SFC_PK_CRANIOFACIAL4 for Established Patient 30 at SFC_PEDI PLAST SRG_STRCT 301
+on 04/10/2025 at 02:00 PM
+
+Care Plan Instructions
+
+Follow-up care is a key part of your child's treatment and safety. Be sure to make and go to
+all appointments.
+
+Patient Demographics
+Patient Name: [Blank/Dft]
+Patient MRN: #1512015
+DOB: [Blank/Dft]
+
+Sex: M
+
+Primary Care Provider: EMILY C LEE FNP, 1705 E 11TH ST, AUSTIN, TX 78702, Ph (512) 978-
+8400, Fax (512) 901-9726, NPI: 1932415064
+
+Patient's Care Team
+
+Pediatric Plastic/Reconstructive Surgeon: Patrick Kelley, MD
+
+Provider: Soo Hee Kim-Delio, MD
+
+Home and Environment
+
+What is your home situation? Both parents
+
+Past Medical History
+
+Notes: Follow-up for cranial surgery 04/07/22
+
+Past Hospitalizations
+
+Birth Hospital: Seton
+
+Past Surgical History
+
+- Plastic/Reconstructive Surgery - 12/10/2021 - Removal of cranial springs times 3. Dr.
+Kelley
+
+Allergies
+
+No Known Allergies (NKDA)
+
+Family History
+
+Mother: Hypertensive disorder, Anxiety
+
+Paternal Grandmother: Heart disease, Diabetes mellitus
+Maternal Grandmother: Heart disease, deceased
+
+No family history of issues with coagulation or anesthesia.
+
+Social History
+
+What is your exercise level? Occasional
+
+Laboratory Test Results
+
+No results found for the last 4320 hours.
+
+Imaging Results
+
+MRI, Brain, 07/07/2021 10:45am, Seton Hospital System
+
+Finalized: 7/7/2021 4:00 PM
+
+Diagnostic Studies
+
+MR Brain Fast Acquisition: Otherwise unremarkable MR brain exam.
+
+Return to Office
+
